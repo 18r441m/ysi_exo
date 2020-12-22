@@ -2,7 +2,7 @@
 """Default values used for initialization.
 """
 
-SERIAL_PORT = '/dev/ttyUSB0'
+SERIAL_PORT = '/dev/ttyUSB1'
 BAUDRATE = 9600 # bps.
 SERIAL_TIMEOUT = 1 # s.
 
